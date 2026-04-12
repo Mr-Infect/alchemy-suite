@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+alchemy_env/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+
+# Secrets
+.env
+*.env
+
+# Playwright
+playwright/.cache/
+
+# VS Code
+.vscode/
+
+# Temporary
+*.tmp
+*.swp

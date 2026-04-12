@@ -1,0 +1,11 @@
+playwright
+requests
+httpx
+beautifulsoup4
+lxml
+rich
+tqdm
+networkx
+pydantic
+fastapi
+uvicorn
