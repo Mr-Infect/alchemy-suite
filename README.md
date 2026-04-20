@@ -289,5 +289,3 @@ If you find this useful:
 This is not the final form.
 
 This is the **foundation of an autonomous security researcher**.
-
-```
